@@ -1,3 +1,6 @@
+// CODE BY DAVID DECKMAN COSS
+// UNLESS STATED OTHERWISE
+
 package
 {
 	import flash.text.*;
